@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gracefulmaid",
+  "name": "Graceful Maid",
+  "description": "Add helpful Maid mob and useful tools related to it.",
+  "version": "1.0.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kashiwagi_K"],
+  "credits": "Me and guys who helped me.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

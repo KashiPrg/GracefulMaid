@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "gracefulmaid:items/maid_bell_silver"
+    }
+}

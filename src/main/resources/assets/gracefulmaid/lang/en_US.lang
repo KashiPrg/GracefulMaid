@@ -1,0 +1,36 @@
+itemGroup.gracefulmaid=Graceful Maid
+
+item.maid_bell.white.name=Maid Bell
+item.maid_bell.orange.name=Maid Bell
+item.maid_bell.magenta.name=Maid Bell
+item.maid_bell.light_blue.name=Maid Bell
+item.maid_bell.yellow.name=Maid Bell
+item.maid_bell.lime.name=Maid Bell
+item.maid_bell.pink.name=Maid Bell
+item.maid_bell.gray.name=Maid Bell
+item.maid_bell.silver.name=Maid Bell
+item.maid_bell.cyan.name=Maid Bell
+item.maid_bell.purple.name=Maid Bell
+item.maid_bell.blue.name=Maid Bell
+item.maid_bell.brown.name=Maid Bell
+item.maid_bell.green.name=Maid Bell
+item.maid_bell.red.name=Maid Bell
+item.maid_bell.black.name=Maid Bell
+item.cloth.white.name=Cloth
+item.cloth.orange.name=Orange Cloth
+item.cloth.magenta.name=Magenta Cloth
+item.cloth.light_blue.name=Light Blue Cloth
+item.cloth.yellow.name=Yellow Cloth
+item.cloth.lime.name=Lime Cloth
+item.cloth.pink.name=Pink Cloth
+item.cloth.gray.name=Gray Cloth
+item.cloth.silver.name=Silver Cloth
+item.cloth.cyan.name=Cyan Cloth
+item.cloth.purple.name=Purple Cloth
+item.cloth.blue.name=Blue Cloth
+item.cloth.brown.name=Brown Cloth
+item.cloth.green.name=Green Cloth
+item.cloth.red.name=Red Cloth
+item.cloth.black.name=Black Cloth
+
+entity.gracefulmaid.maid.name=Maid
